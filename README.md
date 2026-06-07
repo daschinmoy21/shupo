@@ -11,8 +11,6 @@
 
 ---
 
-## What is this?
-
 A video processing pipeline rebuilt from scratch.The rebuild splits the workload
 across two runtimes:
 
