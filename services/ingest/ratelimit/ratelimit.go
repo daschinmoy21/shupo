@@ -10,7 +10,7 @@ import (
 	"github.com/redis/go-redis/v9"
 )
 
-//go:embed rateLimit.lua
+//go:embed ratelimit.lua
 var rateLimitScript string
 
 type RateLimiter struct {
